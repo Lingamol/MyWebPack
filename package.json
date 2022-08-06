@@ -1,0 +1,19 @@
+{
+  "name": "mywebpack",
+  "version": "1.0.0",
+  "description": "mywebpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lingamol/MyWebPack.git"
+  },
+  "author": "Bakalov Oleg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lingamol/MyWebPack/issues"
+  },
+  "homepage": "https://github.com/Lingamol/MyWebPack#readme"
+}
