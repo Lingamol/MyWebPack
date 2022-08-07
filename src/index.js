@@ -1,1 +1,9 @@
-
+// import './css/common.css';
+// import './css/01-gallery.css';
+// import './css/03-feedback.css';
+// import './js/01-gallery';
+// import './js/02-video';
+// import './js/03-feedback';
+// import './01-gallery.html';
+// import './02-video.html';
+// import './03-feedback.html';
